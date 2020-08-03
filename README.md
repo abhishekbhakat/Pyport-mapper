@@ -1,5 +1,5 @@
 # Pyport-mapper
-## Python port mapper for Windows
+## Python port mapping/forwarding for Windows
 Run as administrator
 
 ## Scope

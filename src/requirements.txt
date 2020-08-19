@@ -1,0 +1,2 @@
+pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
+pywin32-ctypes==0.2.0

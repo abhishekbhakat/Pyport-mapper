@@ -1,6 +1,5 @@
 # Pyport-mapper
-[1]: https://img.shields.io/github/workflow/status/abhishekbhakat/Pyport-mapper/CI
-![Alt text][1]
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/abhishekbhakat/Pyport-mapper/CI)
 ## Python port mapping/forwarding for Windows
 NOTE: Run as administrator
 This uses netsh commands for port-forwarding.

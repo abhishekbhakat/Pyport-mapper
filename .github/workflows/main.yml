@@ -25,3 +25,8 @@ jobs:
     # Runs a single command using the runners shell
     - name: PyInstaller Windows
       uses: JackMcKew/pyinstaller-action-windows@v0.1.2
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Pyportmapper
+        path: src/dist/windows/

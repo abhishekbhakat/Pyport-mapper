@@ -10,3 +10,4 @@ Running a server on virtual machine instead of as windows service that keeps run
 ## Scope
 - Ability to delete mapped port firewall rules.
 - GUI
+- Test
